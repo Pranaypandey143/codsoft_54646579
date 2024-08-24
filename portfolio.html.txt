@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   <meta name="veiwsport"content = "widthdevice_width, intial_scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="hero">
+    <nav>
+      <img src=" https://tse3.mm.bing.net/th?id=OIP.Dr0EymZCtNdV2oq2ctIEjwHaF7&pid=Api&P=0&h=180" class="logo">
+        <ul>
+        
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">PORTFOLIO</a></li>
+        <li><a href="#">SERVICES </a></li>
+        <li><a href="#">HIRE ME</a></li>
+   </ul> 88
+</nav>
+<div class="detel">
+    <h1>I,m pranay kumar <span>Pandey</span> </h1>
+    <p>This is my official portfolio website to show all <br>details and work  expereince in web devlopment <br><br></p>
+    <p> "Enthusiastic width deep interest in web development <br> and cybersecurity,aming to secure and optimize <br> digital infrastructure".</p><br>
+    <a href="#">DOWNLOAD CV</a>
+</div>
+<div class ="images">
+    <img src="https://tse4.mm.bing.net/th?id=OIP.kEyWenFcdaZ0gWLqAC70fAHaLH&pid=Api&P=0&h=180"class="shape">
+    <img src="C:\Users\prana\OneDrive\Pictures\Camera imports\2023-12-29\Screenshot_2023-10-06-15-57-51-739-edit_com.miui.gallery.jpg" class="boy">
+</div>
+  </div>  
+</body>
+</html>
